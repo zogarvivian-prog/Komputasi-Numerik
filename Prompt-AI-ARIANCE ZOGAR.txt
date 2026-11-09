@@ -1,0 +1,58 @@
+DAFTAR PROMPT AI YANG SAYA GUNAKAN
+Tugas Komputasi Numerik - Nomor 9
+Nama: ARIANCE ZOGAR
+Platform: Chatgpt 
+
+Sesuai Nomor 8, saya menggunakan AI untuk membantu mengerjakan
+Nomor 5, 6, dan 7. Berikut adalah prompt asli yang saya ketik
+ke AI, tanpa diubah:
+
+PROMPT 1:
+Tolong jelaskan maksud tugas Komputasi Numerik no 1 sampai 13 dan buatkan jawaban sesuai instruksi
+
+PROMPT 2:
+Buatkan jawaban nya
+
+PROMPT 3:
+Gimana cara nambahin cell + Teks di Colab HP? Tombol + Teks nya dimana?
+
+PROMPT 4:
+Gimana cara keluar dari mode edit cell di Colab HP? Mana yang tertulis back?
+
+PROMPT 5:
+Gimana cara Salin ke GitHub jadi file Nomor 7? Jalur file nya diisi apa? Pesan commit nya diisi apa?
+
+PROMPT 6:
+Lanjut 8
+
+PROMPT 7:
+Prompt asli saya
+
+PROMPT 8:
+Maksudnya nomor 8 gimana
+
+PROMPT 9:
+Berarti nomor 8 ini tidak perlu Disi ?
+
+PROMPT 10:
+Berarti nomor 8 itu cuman disuruh pake ai
+
+PROMPT 11:
+Lanjut nomor 9 sekarang
+
+PROMPT 12:
+Bukan ini sudah tersimpan semuanya
+
+PROMPT 13:
+Buatkan jawaban nomor 9
+
+PROMPT 14:
+Maksudnya prompt1-13 itu ap
+
+PROMPT 15:
+Nah buatkan versi yang sesuai instruksi diatas nomor yg
+
+CATATAN:
+Semua jawaban AI sudah saya baca ulang, saya running sendiri
+di Google Colab, dan saya edit dengan bahasa saya sendiri
+sebelum diupload ke Github. Saya tidak copy-paste dari teman.
