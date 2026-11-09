@@ -1,1 +1,9 @@
-
+LINK AKUN KOMPUTASI NUMERIK 
+Nama: Ariance zogar 
+Nim : 202521420005
+Kelas : A
+Matakuliah: Komputasi Numerik 
+https://github.com/zogarvivian-prog/Komputasi-Numerik
+https://github.com/zogarvivian-prog/Komputasi-Numerik/blob/main/README.md
+https://www.linkedin.com/in/ryn-z-b824b7442?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://colab.research.google.com/?authuser=1
