@@ -5,7 +5,7 @@ Metode: Eliminasi Gauss dengan Partial Pivoting
 STUDI KASUS:
 2x + 1y + 1z = 7
 1x + 3y + 2z = 13
-1x + 0y + 5z = 17
+1x + 0y + 5z = 16 
 Solusi: x=1, y=2, z=3
 
 KENAPA PAKAI METODE INI?
