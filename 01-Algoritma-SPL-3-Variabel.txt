@@ -1,0 +1,32 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
+Oleh: ARIANCE ZOGAR - Kelas A
+Metode: Eliminasi Gauss dengan Partial Pivoting
+
+STUDI KASUS:
+2x + 1y + 1z = 7
+1x + 3y + 2z = 13
+1x + 0y + 5z = 17
+Solusi: x=1, y=2, z=3
+
+KENAPA PAKAI METODE INI?
+Karena kalau pakai Cramer dan determinan 0, langsung gagal.
+Eliminasi Gauss lebih stabil, apalagi ditambah Partial Pivoting
+(tukar baris supaya angka terbesar jadi patokan, biar tidak
+ada pembagian dengan nol).
+
+LANGKAH:
+1. MULAI. Siapkan matriks augmented 3x4 [A|b]
+2. ELIMINASI KOLOM 1:
+   - Cari baris dengan nilai mutlak kolom 1 paling besar
+   - Hitung faktor m21 = 1/2, Baris 2 = Baris 2 - (0.5 x Baris 1)
+   - Hitung faktor m31 = 1/2, Baris 3 = Baris 3 - (0.5 x Baris 1)
+3. ELIMINASI KOLOM 2:
+   - Cari nilai terbesar di kolom 2, tukar kalau perlu
+   - Baris 3 = Baris 3 - (m32 x Baris 2)
+   - Matriks jadi segitiga atas
+4. SUBSTITUSI MUNDUR:
+   - z = b3 / a33
+   - y = (b2 - a23*z) / a22
+   - x = (b1 - a12*y - a13*z) / a11
+5. CEK ULANG: Masukkan x,y,z ke 3 persamaan awal
+6. SELESAI. Tampilkan x, y, z
